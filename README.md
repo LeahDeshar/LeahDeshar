@@ -1,7 +1,10 @@
-# **Leah's Profile😄 <img src="Smiley face-pana.png" width="30%" align="right">**
-
+# **Leah's Profile😄<img src="https://user-images.githubusercontent.com/110385460/198846480-5585654a-d1f3-4324-afb9-3f733a7ae91e.png"  width="30%" align="right"/>**
 <div align="center">
-<img src="New folder/pic1.gif" width="57%" align="center" width="80%"/>
+
+
+
+
+<img src="https://user-images.githubusercontent.com/110385460/198846867-2be36647-0174-4875-907c-8bce4e3aaabd.gif" width="55%" align="center" width="80%"/>
 </div>
 <br>
 <br>
@@ -14,7 +17,7 @@
 <div align="left">
 <br>
 
-<img src="Group 6.png"  height="800" width="500" />
+<img src="https://user-images.githubusercontent.com/110385460/198846906-22b78775-4828-43c6-ba99-9abdeadfad45.png"  height="800" width="500" />
 </div>
 <br/>
 
@@ -36,11 +39,12 @@
 
 <br/>
 
+
 ## ROADMAP
 
 <br>
 
-<div align="center"><img src="Group 48.jpg" align="center" width="80%"/></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/110385460/198846938-b4182014-1ce3-4e9a-9fdd-f569ece38eba.jpg" align="center" width="80%"/></div>
 
 <br/>
 
