@@ -9,15 +9,14 @@
 <br>
 <br>
 <br>
-<div align="center" ><h2>I'm Leah.......✋🏻🖐🏻😄</h2></div>
+<div align="center" ><h2>.......✋🏻🖐🏻😄</h2></div>
 
-- I’m currently Learning\_\_📚📚📚
+- Learning\_\_📚📚📚
 
 - 📌 Fun fact: I use tabs over spaces
 <div align="left">
 <br>
 
-<img src="https://user-images.githubusercontent.com/110385460/198846906-22b78775-4828-43c6-ba99-9abdeadfad45.png"  height="800" width="500" />
 </div>
 <br/>
 
