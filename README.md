@@ -34,17 +34,9 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 </div>
 
-<br/>
-
-
-## ROADMAP
-
-<br>
-
-<div align="center"><img src="https://user-images.githubusercontent.com/110385460/198846938-b4182014-1ce3-4e9a-9fdd-f569ece38eba.jpg" align="center" width="80%"/></div>
+</div>
 
 <br/>
 
