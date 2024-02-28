@@ -1,19 +1,14 @@
-# **Leah's Profile😄<img src="https://user-images.githubusercontent.com/110385460/198846480-5585654a-d1f3-4324-afb9-3f733a7ae91e.png"  width="30%" align="right"/>**
 <div align="center">
 
 
 
-
-<img src="https://user-images.githubusercontent.com/110385460/198846867-2be36647-0174-4875-907c-8bce4e3aaabd.gif" width="55%" align="center" width="80%"/>
 </div>
 <br>
 <br>
 <br>
-<div align="center" ><h2>.......✋🏻🖐🏻😄</h2></div>
+
 
 - Learning\_\_📚📚📚
-
-- 📌 Fun fact: I use tabs over spaces
 <div align="left">
 <br>
 
