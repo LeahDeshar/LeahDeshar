@@ -1,6 +1,6 @@
 <h2 align="center">LEAH DESHAR 😑</h2>
 
-<p>How come it's you again? 🤔🤦🏻‍♀️</p>
+
 
 ###
 
