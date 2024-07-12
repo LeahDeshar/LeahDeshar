@@ -1,11 +1,11 @@
-<h2 align="center">LEAH DESHAR 😑</h2>
+<h2 align="center">LEAH DESHAR</h2>
 
 
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leahdeshar&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true" height="150" alt="stats graph"  />
+
   <img src="https://streak-stats.demolab.com?user=leahdeshar&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leahdeshar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=11&theme=codeSTACKr&hide_border=true" height="150" alt="languages graph"  />
 </div>
@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/leahdeshar/count.svg?"  />
+<!--   <img src="https://profile-counter.glitch.me/leahdeshar/count.svg?"  /> -->
 </div>
 
 ###
