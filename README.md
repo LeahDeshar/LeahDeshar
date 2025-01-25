@@ -75,8 +75,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  height="40" alt="python"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"  height="40" alt="kotlin"/>
-          
 
+
+### Mobile Develoment
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40" alt="android" />
+<img width="12" /> 
+<img src="https://miro.medium.com/v2/resize:fit:512/1*3o8TOSojT64ChGpjop0USA.png" height="40" alt="expo"/>
 
 <hr>
   <br />
