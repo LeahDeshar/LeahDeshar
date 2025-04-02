@@ -1,3 +1,4 @@
+<!--
 <h2 align="center">LEAH DESHAR</h2>
 
 
@@ -13,14 +14,16 @@
 ###
 
 <br clear="both">
-
+-->
+<!--
 <img src="https://raw.githubusercontent.com/leahdeshar/leahdeshar/output/snake.svg" alt="Snake animation" />
-
+-->
+<!-- Frontend
 ###
 
 <div align="left">
 
-  <!-- Frontend -->
+  
   ### Frontend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
@@ -37,8 +40,8 @@
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
   
   <br />
-
-  <!-- Backend -->
+ -->
+  <!-- Backend 
   ### Backend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
   <img width="12" />
@@ -53,8 +56,8 @@
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
 
   <br />
-
-  <!-- Database -->
+-->
+  <!-- Database
   ### Database
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img width="12" />
@@ -63,8 +66,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  />
   
   <br />
-  
-  <!-- Design -->
+   -->
+  <!-- Design
   ### Design
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
   <img width="12" />
@@ -97,9 +100,11 @@
 
 
 ###
-
+ -->
+ <!-- 
 <div align="center">
-<!--   <img src="https://profile-counter.glitch.me/leahdeshar/count.svg?"  /> -->
+  <img src="https://profile-counter.glitch.me/leahdeshar/count.svg?"  /> 
 </div>
 
-###
+
+-->
